@@ -12,7 +12,7 @@ public class GUI_Form extends JFrame {
 
     public GUI_Form(){
         setContentPane(MyPanel);
-        setTitle("Cosma ma suge");
+        setTitle("Cosma ma sugeX2");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setSize(800,600);
         setLocationRelativeTo(null);
